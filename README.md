@@ -1,3 +1,5 @@
+### Put `*.npz` output from VGGT in folder root, put your image sequence in folder root with format [your sequence name]/masks and [your sequence name]/rgb (or rgbs), and run `python demo_vggt.py --video [your sequence name]`
+
 # Using Diffusion Priors for Video Amodal Segmentation
 
 **CVPR 2025**
